@@ -1,3 +1,4 @@
+// Author: Vo Van Son
 import 'package:flutter/material.dart';
 import 'package:meal_recipes/dummy_data.dart';
 import 'package:meal_recipes/models/meal.dart';
